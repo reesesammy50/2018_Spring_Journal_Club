@@ -51,7 +51,7 @@ AGENDA:
 2. Discuss
 
 Readings:
-1.
+1. https://www.jci.org/articles/view/21318/figure/1
 2.
 
 ### **WEEK 7**
